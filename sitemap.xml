@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/sauravpattnaikcs60-github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sauravpattnaikcs60-github.io/articles/</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sauravpattnaikcs60-github.io/photography/</loc>
+    <loc>http://localhost:1313/photography/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sauravpattnaikcs60-github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sauravpattnaikcs60-github.io/stories/</loc>
+    <loc>http://localhost:1313/stories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
