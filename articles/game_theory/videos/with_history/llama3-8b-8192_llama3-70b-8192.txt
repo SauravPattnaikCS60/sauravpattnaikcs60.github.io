@@ -1,0 +1,2 @@
+llama3-8b-8192 avg penalty : 6.3
+llama3-70b-8192 avg penalty : 4.86

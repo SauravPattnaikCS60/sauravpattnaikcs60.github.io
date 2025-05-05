@@ -1,0 +1,2 @@
+llama3-8b-8192 avg penalty : 0.2
+gemma2-9b-it avg penalty : 7.4
